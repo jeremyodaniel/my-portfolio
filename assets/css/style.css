@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color:black;
+    font-family: helvetica, arial, sans-serif;
+}
+
+/* header styling start */
+header {
+    background-color: beige;
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px 35px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-position: 80%;
+    z-index: 9999;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    margin: 0;
+}       
+
+header a {
+    color: black;
+    font-weight: bolder;
+    font-size: 36;
+    text-decoration: none;
+}
+
+header nav {
+    margin: 10px 0;
+}
+
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+header nav ul li a {
+    padding: 5px 10px;
+    font-weight: lighter;
+    font-size: 1.55vw;
+} 
+/* header styling end */
+
+
+
+
+
+
+
+
+
+/* hero styling */
+
+/* skills styling */
+
+/* projects styling */
+
+/* contact-me styling */
