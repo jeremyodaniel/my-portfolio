@@ -26,7 +26,12 @@ header {
 }
 
 header h1 {
+<<<<<<< Updated upstream
     font-weight: bold;
+=======
+    color: #e8e8e8;
+    font-weight: lighter;
+>>>>>>> Stashed changes
     font-size: 36px;
     margin: 0;
 }       
@@ -58,7 +63,40 @@ header nav ul li a {
 /* header styling end */
 
 
+<<<<<<< Updated upstream
 
+=======
+/* about me styling*/
+.about-me {
+    height: 600px;
+    background: #f7f5e6;
+    color: #333a56;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.bio {
+    width: auto;
+    margin: 0 auto 30px auto;
+    background: #f7f5e6;
+    color: #333a56;
+    overflow: auto;
+}
+
+.bio img {
+    background: #f7f5e6; /* NOT SEEING EXPECTED OUTCOME. */
+    height: 500px;
+    width: 700px;
+    float: right;
+}
+
+.bio-text {
+    text-align: justify;
+}
+/* skills styling start */
+/* skills styling end */
+>>>>>>> Stashed changes
 
 
 
