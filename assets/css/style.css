@@ -26,12 +26,17 @@ header {
 }
 
 header h1 {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     font-weight: bold;
 =======
     color: #e8e8e8;
     font-weight: lighter;
 >>>>>>> Stashed changes
+=======
+    color: #000000;
+    font-weight: lighter;
+>>>>>>> main
     font-size: 36px;
     margin: 0;
 }       
@@ -62,7 +67,9 @@ header nav ul li a {
 } 
 /* header styling end */
 
+/* hero styling */
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 
 =======
@@ -97,16 +104,57 @@ header nav ul li a {
 /* skills styling start */
 /* skills styling end */
 >>>>>>> Stashed changes
+=======
+/* about me styling*/
 
-
-
-
-
-
-/* hero styling */
-
-/* skills styling */
+/* skills styling start */
+/* skills styling end */
+>>>>>>> main
 
 /* projects styling */
 
-/* contact-me styling */
+/* contact-me styling start */
+footer {
+    background: #333a56;
+    width: 100%;
+    padding: 20px 15px;
+}
+
+footer h3 {
+    display: inline;
+    color: #f7f5e6;
+    font-size: 20px;
+    font-weight: lighter;
+    margin: 0;
+}
+
+footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+footer a {
+    color: #f7f5e6;
+}
+
+footer ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+footer ul li a {
+    padding: 5px 10px;
+    font-weight: lighter;
+    font-size: 20px;
+} 
+
+section {
+    padding: 50px; /* This is the last 'section' styling so it styles every 
+                    other section. CSS works top to bottom giving precedent to
+                    what is last. */
+}
+/* contact-me styling end */
