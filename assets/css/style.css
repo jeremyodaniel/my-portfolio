@@ -26,21 +26,8 @@ header {
 }
 
 header h1 {
-<<<<<<< HEAD
-    color: #e8e8e8;
-=======
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    font-weight: bold;
-=======
-    color: #e8e8e8;
-    font-weight: lighter;
->>>>>>> Stashed changes
-=======
     color: #000000;
->>>>>>> develop
     font-weight: lighter;
->>>>>>> main
     font-size: 36px;
     margin: 0;
 }       
@@ -71,13 +58,10 @@ header nav ul li a {
 } 
 /* header styling end */
 
-/* hero styling */
+/* hero styling start*/
+/* hero styling end */
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-
-=======
-/* about me styling*/
+/* about me styling start */
 .about-me {
     height: 600px;
     background: #f7f5e6;
@@ -105,43 +89,13 @@ header nav ul li a {
 .bio-text {
     text-align: justify;
 }
+/* about me styling end */
+
 /* skills styling start */
 /* skills styling end */
->>>>>>> Stashed changes
-=======
-/* about me styling*/
-.about-me {
-    height: 600px;
-    background: #f7f5e6;
-    color: #333a56;
-    background-size: cover;
-    background-position: center;
-    position: relative;
-}
 
-.bio {
-    width: auto;
-    margin: 0 auto 30px auto;
-    background: #f7f5e6;
-    color: #333a56;
-    overflow: auto;
-}
-
-.bio img {
-    background: #f7f5e6; /* NOT SEEING EXPECTED OUTCOME. */
-    height: 500px;
-    width: 700px;
-    float: right;
-}
-
-.bio-text {
-    text-align: justify;
-}
-/* skills styling start */
-/* skills styling end */
->>>>>>> main
-
-/* projects styling */
+/* projects styling start */
+/* projects styling end */
 
 /* contact-me styling start */
 footer {
