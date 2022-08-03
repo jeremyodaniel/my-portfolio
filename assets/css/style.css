@@ -104,6 +104,11 @@ header nav ul li a {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    background: #f7f5e6;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
 }
 
 .card {
