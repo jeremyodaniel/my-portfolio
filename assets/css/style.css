@@ -117,10 +117,13 @@ header nav ul li a {
     border-radius: 10px;
     padding: 10px;
     flex: 0 0 400px;
+    background-color: #52658f;
+    
 }
 
 .card header {
   padding: 20px;
+  color: #e8e8e8;
 }
 
 .card p {
