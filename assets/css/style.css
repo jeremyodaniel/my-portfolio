@@ -95,6 +95,19 @@ header nav ul li a {
 /* about me styling end */
 
 /* skills styling start */
+#skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    height: 600px;
+    background: #52658f;
+    color: #e8e8e8;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+
 /* skills styling end */
 
 /* projects styling start */
