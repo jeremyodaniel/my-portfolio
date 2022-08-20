@@ -66,7 +66,7 @@ header nav ul li a {
     justify-content: flex-start;
     height: 600px;
     background: #f7f5e6;
-    color: #333a56;
+    color: #52658f;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -79,7 +79,7 @@ header nav ul li a {
     width: auto;
     margin: 0 auto 30px auto;
     background: #f7f5e6;
-    color: #333a56;
+    color: #52658f;
     overflow: auto;
 }
 
@@ -95,7 +95,7 @@ header nav ul li a {
 /* about me styling end */
 
 /* skills styling start */
-#skills {
+.skills {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
@@ -105,6 +105,13 @@ header nav ul li a {
     background-size: cover;
     background-position: center;
     position: relative;
+}
+
+.skill-list {
+    width: 50%;
+    margin: 1em 0;
+    width: 100%;
+    padding-left: 0;
 }
 
 
