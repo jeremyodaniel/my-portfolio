@@ -6,7 +6,7 @@
   This is a basic portfolio showcasing a few of the projects I have collaborated on.
 
   ### Website
-  https://jeremyodaniel.github.io/my-portfolio/
+  <a href="https://jeremyodaniel.github.io/my-portfolio/" target="blank">My Portfolio</a>
 
   ### GitHub
   https://github.com/jeremyodaniel
