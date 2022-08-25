@@ -147,7 +147,8 @@ header nav ul li a {
 }
 
 .card p {
-  text-align: center;
+  text-align: left;
+  color: #e8e8e8;
 }
 
 .card img {
