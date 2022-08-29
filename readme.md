@@ -12,7 +12,7 @@
   * CSS
 
   ### Website
-  https://jeremyodaniel.github.io/my-portfolio/
+  <a href="https://jeremyodaniel.github.io/my-portfolio/" target="_blank">My Portfolio</a>
 
   ### GitHub
   https://github.com/jeremyodaniel
