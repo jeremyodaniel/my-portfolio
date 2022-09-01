@@ -20,4 +20,5 @@
   ### Email
   jeremy.odaniel@gmail.com
   
-
+  ### LinkedIn
+  https://www.linkedin.com/in/jeremy-o-daniel-6ba962213/
